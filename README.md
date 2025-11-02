@@ -5,6 +5,10 @@ Problem: Designing quantum feature maps for QML in order to analyze biological d
 Approach: First, a QML was trained using the standard ZZFeatureMap and a smaller subset of the data (20%, 200 rows) as the large dataset was taking too long. Then, we created new feature maps and trained the 
 QML on those to see if we could improve the accuracy of the QML's classifications.
 
+Citations:
+For Trial 1, since we did not know how to create a feature map, we used ChatGPT to generate a simple feature map that we then modified.
+Many code segments from the IBM docs/tutorials were used.
+
 How to run:
 
 Setup:
