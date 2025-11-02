@@ -1,0 +1,12 @@
+TRIALS (100 entries ~2mins)
+
+Standard ZZ featuremap --> 0.75
+Rx = linear, Rz = squared, linear entanglement --> 0.95
+Rx = 2x, Rz = cubed, linear entanglement --> 0.85
+
+TRIALS (200 entries)
+
+Standard ZZ featuremap --> 0.7, 6 mins
+Rx = linear, Rz = squared, linear entanglement --> 0.95, 8 mins
+Rx = 2x, Rz = cubed, linear entanglement --> 0.9, 7 mins & 40s
+Rx = linear, Rz = cubed, linear entanglement --> 0.95, 7 mins & 32s
