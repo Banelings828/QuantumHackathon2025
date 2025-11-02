@@ -1,4 +1,6 @@
 Hackathon project for quantum fall fest uOttawa.
+Group: Eepy Sleepers
+Members: Mac Yên Pham, Adam Shousha
 
 Problem: Designing quantum feature maps for QML in order to analyze biological data. We chose a large data set of heart disease factors.
 
